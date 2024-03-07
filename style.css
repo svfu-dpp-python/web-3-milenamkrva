@@ -1,0 +1,36 @@
+.main {
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+}
+
+article {
+width: 300px;
+height: 800px;
+padding: 10px;
+border: 7px solid #2F4F4F;
+font-size: 18px;
+background-color: #FAF0E6;
+text-align: justify;
+}
+
+.img1 {
+width: 300px;
+height: 450px;
+}
+
+.img2 {
+width: 300px;
+height: 450px;
+}
+
+.img3 {
+width: 300px;
+height: 450px;
+}
+
+.img4 {
+width: 300px;
+height: 450px;
+}
